@@ -1,4 +1,5 @@
-<img width="1279" alt="Screenshot 2025-04-12 at 15 42 05" src="https://github.com/user-attachments/assets/7d1136ec-a48e-48a9-a209-f008684e3e1f" /># ⚡ Fault Detection in Transmission Line Using MATLAB Simulink
+<img width="1279" alt="Screenshot 2025-04-12 at 15 42 05" src="https://github.com/user-attachments/assets/7d1136ec-a48e-48a9-a209-f008684e3e1f" />
+# ⚡ Fault Detection in Transmission Line Using MATLAB Simulink
 
 ## 📘 Project Overview
 
@@ -39,5 +40,6 @@ The Simulink model comprises:
 
 
 
+<img width="1279" alt="Screenshot 2025-04-12 at 15 42 05" src="https://github.com/user-attachments/assets/7d1136ec-a48e-48a9-a209-f008684e3e1f" />
 
 
