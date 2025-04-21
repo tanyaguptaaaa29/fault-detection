@@ -1,4 +1,9 @@
 <img width="1279" alt="Screenshot 2025-04-12 at 15 42 05" src="https://github.com/user-attachments/assets/7d1136ec-a48e-48a9-a209-f008684e3e1f" />
+<img width="1280" alt="Screenshot 2025-04-15 at 20 46 40" src="https://github.com/user-attachments/assets/806b7e62-d58a-48b9-9d6f-ca3c191f7a11" />
+<img width="1200" alt="Screenshot 2025-04-12 at 15 42 23" src="https://github.com/user-attachments/assets/64e7657a-ca3b-4d6b-8967-1a18983640b4" />
+<img width="1280" alt="Screenshot 2025-04-12 at 15 43 10" src="https://github.com/user-attachments/assets/3c8883c7-8d40-4b30-95ef-b1aa6e1666d3" />
+
+
 # ⚡ Fault Detection in Transmission Line Using MATLAB Simulink
 
 ## 📘 Project Overview
@@ -37,9 +42,5 @@ The Simulink model comprises:
 5. Classification: Based on the pattern of anomalies, the fault is classified into one of the predefined categories.
 6. Visualization: The results are displayed on scopes for analysis.
 
-
-
-
-<img width="1279" alt="Screenshot 2025-04-12 at 15 42 05" src="https://github.com/user-attachments/assets/7d1136ec-a48e-48a9-a209-f008684e3e1f" />
 
 
