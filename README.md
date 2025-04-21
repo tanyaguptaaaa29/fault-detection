@@ -18,7 +18,7 @@ This project focuses on simulating and analyzing faults in three-phase electrica
 
 ## 🛠 Tools and Technologies
 
-- MATLAB R2023b
+- MATLAB R2024b
 - Simulink
 - Simscape Electrical
 
